@@ -2,7 +2,7 @@
 
 This is [Martin Montes](https://mmontes11.github.io/), a software engineer from A Coruña, 🇪🇸 . Right now, I am ...
 
-- ⚡ Working with Go, Node.js and Kubernetes
+- ⚡ Working with Go, Node.js and Kubernetes.
 - 🌱 Contributing to open source projects:
   - [cli/cli](https://github.com/cli/cli)
 - 🌎 Developing my own open source projects:
