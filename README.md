@@ -8,5 +8,5 @@ This is [Martin Montes](https://mmontes11.github.io/), a software engineer from 
 - 🌎 Developing my own open source projects:
   - [gotway/gotway](https://github.com/gotway/gotway)
   - [mmontes11/iot](https://github.com/mmontes11/iot)
-- 🚀 [Deploying](https://itnext.io/ci-cd-for-a-multi-arch-go-application-using-github-actions-docker-buildx-helm-and-kubernetes-f415a42b2c82) them to my [rpi k8s cluster](https://itnext.io/deploying-a-microservice-oriented-application-to-kubernetes-from-zero-to-production-416a173a8505).
+- 🚀 Deploying them to my rpi k8s cluster.
 - ✍🏻 Writing about them and other lessons learned on [Medium](https://medium.com/@mmontes11).
