@@ -6,7 +6,7 @@ This is [Martin Montes](https://mmontes11.github.io/), a software engineer from 
 - 🌱 Contributing to open source projects:
   - [cli/cli](https://github.com/cli/cli)
   - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets)
-  - [podinfo](https://github.com/stefanprodan/podinfo)
+  - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo)
 - 🌎 Developing my own open source projects:
   - [gotway/gotway](https://github.com/gotway/gotway)
   - [mmontes11/iot](https://github.com/mmontes11/iot)
