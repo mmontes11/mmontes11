@@ -4,8 +4,9 @@ This is [Martin Montes](https://mmontes11.github.io/), a software engineer from 
 
 - ⚡ Working with Go, Node.js and Kubernetes.
 - 🌱 Contributing to open source projects:
-  - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets)
   - [cli/cli](https://github.com/cli/cli)
+  - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets)
+  - [podinfo](https://github.com/stefanprodan/podinfo)
 - 🌎 Developing my own open source projects:
   - [gotway/gotway](https://github.com/gotway/gotway)
   - [mmontes11/iot](https://github.com/mmontes11/iot)
