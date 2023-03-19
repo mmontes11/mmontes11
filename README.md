@@ -4,7 +4,7 @@ This is [Martin Montes](https://mmontes11.github.io/), a software engineer from 
 
 - ☁️ Working with Kubernetes and Go.
 - 🌱 Contributing to open source projects:
-  - [mariadb-operator](https://github.com/mariadb-operator/mariadb-operator)
+  - [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator)
   - [gotway/gotway](https://github.com/gotway/gotway)
   - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager)
   - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets)
