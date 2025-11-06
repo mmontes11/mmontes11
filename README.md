@@ -8,3 +8,9 @@ This is [Martin Montes](https://mmontes11.github.io/), a software engineer from 
 - 🚀 Deploying [stuff](https://github.com/mmontes11/k8s-infrastructure) to my [🍓 cluster](https://github.com/mmontes11/k8s-bootstrap).
 - ✍🏻 Sharing lessons learned on [Medium](https://medium.com/@mmontes11).
 - ☸️ Certified Kubernetes [Administrator](https://drive.google.com/file/d/17hfWEJOfYl1HOLmX5yRH4It0xbykv9Nz/view?usp=sharing) and [Application Developer](https://drive.google.com/file/d/1QPePQZHekaEWu-A4Hl-B1ZwM5Yedna_d/view?usp=sharing).
+
+<p align="center">
+  <a href="https://trendshift.io/developers/7357" target="_blank">
+    <img src="https://trendshift.io/api/badge/developers/7357" alt="mmontes11 | Trendshift" width="250" height="55"/>
+  </a>
+</p>
